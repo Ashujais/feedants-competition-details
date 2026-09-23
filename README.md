@@ -188,7 +188,3 @@ Tests cover lifecycle boundaries, overlapping eligibility windows, valid and dup
 - Add translated content fields, accessibility testing, analytics, offline caching, and push notifications.
 - Run API integration tests against ephemeral MongoDB in CI, add load tests, and monitor slot collision rates.
 - Paginate large winners/reviews lists and introduce caching/read replicas when traffic warrants it.
-
-## Screen Recording
-
-For the required submission recording, seed the database, open the app on a common phone viewport, then record: initial 1/20 availability, register, open each tab, copy/share the referral, open the submission sheet, submit a public URL, and show the final submitted state. Keep the recording short and do not claim a real payment occurred.
